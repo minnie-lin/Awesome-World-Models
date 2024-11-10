@@ -1,4 +1,4 @@
-# Awesome World Models [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome World Models for Robotics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This repository provides a curated list of **papers for World Models for General Video Generation, Embodied AI, and Autonomous Driving**. Template from [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) <br>
 
