@@ -46,6 +46,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ## General World Models
 
 
+
 ---
 ## World Models for Embodied AI
 * **3D-VLA**: "A 3D Vision-Language-Action Generative World Model"  **`ICML 2024`** [[Paper](https://arxiv.org/abs/2403.09631)]
