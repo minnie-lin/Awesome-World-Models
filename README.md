@@ -1,6 +1,6 @@
 # Awesome World Models for Robotics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repository provides a curated list of **papers for World Models for General Video Generation, Embodied AI, and Autonomous Driving**. Template from [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) <br>
+This repository provides a curated list of **papers for World Models for General Video Generation, Embodied AI, and Autonomous Driving**. Template from [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) and [Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model)<br>
 
 #### Contributions are welcome! Please feel free to submit [pull requests](https://github.com/leofan90/Awesome-World-Models/blob/main/how-to-PR.md) or reach out via [email](mailto:chunkaifan-changetoat-stu-changetodot-pku--changetodot-changetoedu-changetocn) to add papers! <br>
 
@@ -9,6 +9,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## Overview
 
+  - [Foundation paper of World Model](#foundation-paper-of-world-model)
   - [Blog or Technical Report](#blog-or-technical-report)
   - [Surveys](#surveys)
   - [Benchmarks](#benchmarks)
@@ -18,7 +19,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
   - [Citation](#citation)
 
 ---
-## Foundation of World Model
+## Foundation paper of World Model
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
@@ -166,6 +167,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **MagicDrive**: "Street View Generation with Diverse 3D Geometry Control", **`ICLR 2024`**. [[Paper](https://arxiv.org/abs/2310.02601)] [[Code](https://github.com/cure-lab/MagicDrive)]
 * **DriveDreamer**: "Towards Real-world-driven World Models for Autonomous Driving", **`ECCV 2024`**. [[Paper](https://arxiv.org/abs/2309.09777)] [[Code](https://github.com/JeffWang987/DriveDreamer)]
 * **SEM2**: "Enhance Sample Efficiency and Robustness of End-to-end Urban Autonomous Driving via Semantic Masked World Model", **`TITS`**. [[Paper](https://ieeexplore.ieee.org/abstract/document/10538211/)]
+
 
 ----
 ## Citation
