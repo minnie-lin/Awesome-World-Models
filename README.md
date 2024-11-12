@@ -45,9 +45,12 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* **WebDreamer**: "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.06559)] [[Code](https://github.com/OSU-NLP-Group/WebDreamer)]
 * "Scaling Laws for Pre-training Agents and World Models", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.04434)]
 * **DINO-WM**: "DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.04983)] [[Website](https://dino-wm.github.io/)]
-* **WebDreamer**: "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.06559)] [[Code](https://github.com/OSU-NLP-Group/WebDreamer)]
+* "Learning World Models for Unconstrained Goal Navigation", **`NIPS 2024`**. [[Paper](https://arxiv.org/abs/2411.02446)]
+* "How Far is Video Generation from World Model: A Physical Law Perspective", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.02385)] [[Website](https://phyworld.github.io/)] [[Code](https://github.com/phyworld/phyworld)]
+* **Adaptive World Models**: "Adaptive World Models: Learning Behaviors by Latent Imagination Under Non-Stationarity", **`NIPS 2024 Workshop Adaptive Foundation Models`**. [[Paper](https://arxiv.org/abs/2411.01342)]
 * **LLMCWM**: "Language Agents Meet Causality -- Bridging LLMs and Causal World Models", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.19923)] [[Code](https://github.com/j0hngou/LLMCWM/)]
 * "Reward-free World Models for Online Imitation Learning", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.14081)]
 * "Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.13232)]
@@ -100,6 +103,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **WHALE**: "WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.05619)]
 * **VisualPredicator**: "VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.23156)] 
 * "Multi-Task Interactive Robot Fleet Learning with Visual World Models", **`CoRL 2024`**. [[Paper](https://arxiv.org/abs/2410.22689)] [[Code](https://ut-austin-rpl.github.io/sirius-fleet/)]
+* **X-MOBILITY**: "X-MOBILITY: End-To-End Generalizable Navigation via World Modeling", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.17491)]
 * **PIVOT-R**: "PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation", **`NeurIPS 2024`**. [[Paper](https://arxiv.org/pdf/2410.10394)]
 * **GLIMO**: "Grounding Large Language Models In Embodied Environment With Imperfect World Models", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.02664)]
 * **PreLAR**: "PreLAR: World Model Pre-training with Learnable Action Representation", **`ECCV 2024`**. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03363.pdf)] [[Code](https://github.com/zhanglixuan0720/PreLAR)]
@@ -110,6 +114,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **DWL**: "Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning", **`RSS 2024 (Best Paper Award Finalist)`**. [[Paper](https://arxiv.org/abs/2408.14472)]
 * **HRSSM**: "Learning Latent Dynamic Robust Representations for World Models", **`ICML 2024`**. [[Paper](https://arxiv.org/abs/2405.06263)] [[Code](https://github.com/bit1029public/HRSSM)]
 * **RoboDreamer**: "RoboDreamer: Learning Compositional World Models for Robot Imagination", **`ICML 2024`**. [[Paper](https://arxiv.org/abs/2404.12377)] [[Code](https://robovideo.github.io/)]
+* **COMBO**: "COMBO: Compositional World Models for Embodied Multi-Agent Cooperation", **`ECCV 2024`**. [[Paper](https://arxiv.org/abs/2404.10775)] [[Website](https://vis-www.cs.umass.edu/combo/)] [[Code](https://github.com/UMass-Foundation-Model/COMBO)]
 * **3D-VLA**: "3D-VLA: A 3D Vision-Language-Action Generative World Model",  **`ICML 2024`**. [[Paper](https://arxiv.org/abs/2403.09631)]
 * **ManiGaussian**: "ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation", **`arXiv 2024.3`**.  [[Paper](https://arxiv.org/abs/2403.08321)] [[Code](https://guanxinglu.github.io/ManiGaussian/)]
 
