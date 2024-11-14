@@ -29,6 +29,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "World Models: The Safety Perspective", **`ISSRE WDMD`**. [[Paper](https://arxiv.org/abs/2411.07690)]
 * "Exploring the Interplay Between Video Generation and World Models in Autonomous Driving: A Survey", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.02914)]
 * "From Efficient Multimodal Models to World Models: A Survey", **`arXiv 2024.07`**. [[Paper](https://arxiv.org/abs/2407.00118)]
 * "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI", **`arXiv 2024.07`**. [[Paper](https://arxiv.org/abs/2407.06886)] [[Code](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)]
@@ -46,6 +47,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* "Evaluating World Models with LLM for Decision Making", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.08794)] 
+* **LLMPhy**: "LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.08027)] 
 * **WebDreamer**: "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.06559)] [[Code](https://github.com/OSU-NLP-Group/WebDreamer)]
 * "Scaling Laws for Pre-training Agents and World Models", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.04434)]
 * **DINO-WM**: "DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.04983)] [[Website](https://dino-wm.github.io/)]
