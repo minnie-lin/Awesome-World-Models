@@ -116,6 +116,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * "Representing Positional Information in Generative World Models for Object Manipulation" **`arXiv 2024.9`** [[Paper](https://arxiv.org/abs/2409.12005)]
 * **DexSim2Real$^2$**: "DexSim2Real$^2: Building Explicit World Model for Precise Articulated Object Dexterous Manipulation", **`arXiv 2024.9`**. [[Paper](https://arxiv.org/abs/2409.08750)]
 * **DWL**: "Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning", **`RSS 2024 (Best Paper Award Finalist)`**. [[Paper](https://arxiv.org/abs/2408.14472)]
+* "Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics", **`arXiv 2024.6`**. [[Paper](https://arxiv.org/abs/2406.10788)] [[Website](https://embodied-gaussians.github.io/)]
 * **HRSSM**: "Learning Latent Dynamic Robust Representations for World Models", **`ICML 2024`**. [[Paper](https://arxiv.org/abs/2405.06263)] [[Code](https://github.com/bit1029public/HRSSM)]
 * **RoboDreamer**: "RoboDreamer: Learning Compositional World Models for Robot Imagination", **`ICML 2024`**. [[Paper](https://arxiv.org/abs/2404.12377)] [[Code](https://robovideo.github.io/)]
 * **COMBO**: "COMBO: Compositional World Models for Embodied Multi-Agent Cooperation", **`ECCV 2024`**. [[Paper](https://arxiv.org/abs/2404.10775)] [[Website](https://vis-www.cs.umass.edu/combo/)] [[Code](https://github.com/UMass-Foundation-Model/COMBO)]
