@@ -127,6 +127,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **Imagine-2-Drive**: "Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles", **`ICRA 2025`**. [[Paper](https://arxiv.org/abs/2411.10171)] [[Project Page](https://anantagrg.github.io/Imagine-2-Drive.github.io/)]
 * **DriveDreamer4D**: "World Models Are Effective Data Machines for 4D Driving Scene Representation", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.13571)] [[Project Page](https://drivedreamer4d.github.io/)]
 * **DOME**: "Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.10429)] [[Project Page](https://gusongen.github.io/DOME)]
 * **SSR**: "Does End-to-End Autonomous Driving Really Need Perception Tasks?", **`arXiv 2024.9`**. [[Paper](https://arxiv.org/abs/2409.18341)] [[Code](https://github.com/PeidongLi/SSR)]
