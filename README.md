@@ -29,6 +29,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "Understanding World or Predicting Future? A Comprehensive Survey of World Models", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.14499)]
 * "World Models: The Safety Perspective", **`ISSRE WDMD`**. [[Paper](https://arxiv.org/abs/2411.07690)]
 * "Exploring the Interplay Between Video Generation and World Models in Autonomous Driving: A Survey", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.02914)]
 * "From Efficient Multimodal Models to World Models: A Survey", **`arXiv 2024.07`**. [[Paper](https://arxiv.org/abs/2407.00118)]
