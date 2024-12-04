@@ -128,6 +128,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **InfinityDrive**: "InfinityDrive: Breaking Time Limits in Driving World Models", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.01522)] [[Project Page](https://metadrivescape.github.io/papers_project/InfinityDrive/page.html)]
 * **ReconDreamer**: "ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.19548)] [[Project Page](https://recondreamer.github.io/)]
 * **Imagine-2-Drive**: "Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles", **`ICRA 2025`**. [[Paper](https://arxiv.org/abs/2411.10171)] [[Project Page](https://anantagrg.github.io/Imagine-2-Drive.github.io/)]
 * **DriveDreamer4D**: "World Models Are Effective Data Machines for 4D Driving Scene Representation", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.13571)] [[Project Page](https://drivedreamer4d.github.io/)]
