@@ -48,6 +48,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* "Navigation World Models", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.03572)] [[Website](https://www.amirbar.net/nwm/)]
 * "Evaluating World Models with LLM for Decision Making", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.08794)] 
 * **LLMPhy**: "LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.08027)] 
 * **WebDreamer**: "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.06559)] [[Code](https://github.com/OSU-NLP-Group/WebDreamer)]
