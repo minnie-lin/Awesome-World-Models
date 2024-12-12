@@ -40,6 +40,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks
+* **ACT-Bench**: "ACT-Bench: Towards Action Controllable World Models for Autonomous Driving", **`arxiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.05337)]
 * **WorldSimBench**: "WorldSimBench: Towards Video Generation Models as World Simulators", **`arxiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.18072)] [[Website](https://iranqin.github.io/WorldSimBench.github.io/)] 
 * **EVA**: "EVA: An Embodied World Model for Future Video Anticipation", **`arxiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.15461)] [[Website](https://sites.google.com/view/eva-publi)] 
 * **AeroVerse**: "AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models", **`arxiv 2024.08`**. [[Paper](https://arxiv.org/pdf/2408.15511)]
@@ -129,6 +130,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* "Pysical Informed Driving World Model", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.08410)] [[Project Page](https://metadrivescape.github.io/papers_project/DrivePhysica/page.html)]
+* **InfiniCube**: "InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.03934)] [[Project Page](https://research.nvidia.com/labs/toronto-ai/infinicube/)]
 * **InfinityDrive**: "InfinityDrive: Breaking Time Limits in Driving World Models", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.01522)] [[Project Page](https://metadrivescape.github.io/papers_project/InfinityDrive/page.html)]
 * **ReconDreamer**: "ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.19548)] [[Project Page](https://recondreamer.github.io/)]
 * **Imagine-2-Drive**: "Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles", **`ICRA 2025`**. [[Paper](https://arxiv.org/abs/2411.10171)] [[Project Page](https://anantagrg.github.io/Imagine-2-Drive.github.io/)]
