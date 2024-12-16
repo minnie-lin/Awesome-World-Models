@@ -49,6 +49,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* **Owl-1**: "Owl-1: Omni World Model for Consistent Long Video Generation", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.09600)]
 * "Navigation World Models", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.03572)] [[Website](https://www.amirbar.net/nwm/)]
 * "Evaluating World Models with LLM for Decision Making", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.08794)] 
 * **LLMPhy**: "LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.08027)] 
@@ -130,6 +131,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **GaussianWorld**: "GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.04380)] [[Code](https://github.com/zuosc19/GaussianWorld)]
+* **Doe-1**: "Doe-1: Closed-Loop Autonomous Driving with Large World Model", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.09627)] [[Project Page](https://wzzheng.net/Doe/)] [[Code](https://github.com/wzzheng/Doe)]
 * "Pysical Informed Driving World Model", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.08410)] [[Project Page](https://metadrivescape.github.io/papers_project/DrivePhysica/page.html)]
 * **InfiniCube**: "InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.03934)] [[Project Page](https://research.nvidia.com/labs/toronto-ai/infinicube/)]
 * **InfinityDrive**: "InfinityDrive: Breaking Time Limits in Driving World Models", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.01522)] [[Project Page](https://metadrivescape.github.io/papers_project/InfinityDrive/page.html)]
