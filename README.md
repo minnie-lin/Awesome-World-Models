@@ -114,6 +114,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **X-MOBILITY**: "X-MOBILITY: End-To-End Generalizable Navigation via World Modeling", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.17491)]
 * **PIVOT-R**: "PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation", **`NeurIPS 2024`**. [[Paper](https://arxiv.org/pdf/2410.10394)]
 * **GLIMO**: "Grounding Large Language Models In Embodied Environment With Imperfect World Models", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.02664)]
+* * **EVA**: "EVA: An Embodied World Model for Future Video Anticipation", **`arxiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.15461)] [[Website](https://sites.google.com/view/eva-publi)] 
 * **PreLAR**: "PreLAR: World Model Pre-training with Learnable Action Representation", **`ECCV 2024`**. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03363.pdf)] [[Code](https://github.com/zhanglixuan0720/PreLAR)]
 * **WMP**: "World Model-based Perception for Visual Legged Locomotion", **`arXiv 2024.9`**. [[Paper](https://arxiv.org/abs/2409.16784)] [[Project](https://wmp-loco.github.io/)]
 * **R-AIF**: "R-AIF: Solving Sparse-Reward Robotic Tasks from Pixels with Active Inference and World Models", **`arXiv 2024.9`**. [[Paper](https://arxiv.org/abs/2409.14216)]
