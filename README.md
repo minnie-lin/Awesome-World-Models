@@ -49,6 +49,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* "Transformers Use Causal World Models in Maze-Solving Tasks", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.11867)]
 * **Owl-1**: "Owl-1: Omni World Model for Consistent Long Video Generation", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.09600)]
 * "Navigation World Models", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.03572)] [[Website](https://www.amirbar.net/nwm/)]
 * "Evaluating World Models with LLM for Decision Making", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.08794)] 
@@ -114,7 +115,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **X-MOBILITY**: "X-MOBILITY: End-To-End Generalizable Navigation via World Modeling", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.17491)]
 * **PIVOT-R**: "PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation", **`NeurIPS 2024`**. [[Paper](https://arxiv.org/pdf/2410.10394)]
 * **GLIMO**: "Grounding Large Language Models In Embodied Environment With Imperfect World Models", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.02664)]
-* * **EVA**: "EVA: An Embodied World Model for Future Video Anticipation", **`arxiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.15461)] [[Website](https://sites.google.com/view/eva-publi)] 
+* **EVA**: "EVA: An Embodied World Model for Future Video Anticipation", **`arxiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.15461)] [[Website](https://sites.google.com/view/eva-publi)] 
 * **PreLAR**: "PreLAR: World Model Pre-training with Learnable Action Representation", **`ECCV 2024`**. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03363.pdf)] [[Code](https://github.com/zhanglixuan0720/PreLAR)]
 * **WMP**: "World Model-based Perception for Visual Legged Locomotion", **`arXiv 2024.9`**. [[Paper](https://arxiv.org/abs/2409.16784)] [[Project](https://wmp-loco.github.io/)]
 * **R-AIF**: "R-AIF: Solving Sparse-Reward Robotic Tasks from Pixels with Active Inference and World Models", **`arXiv 2024.9`**. [[Paper](https://arxiv.org/abs/2409.14216)]
@@ -132,6 +133,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **GEM**: "GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.11198)] [[Project Page](https://vita-epfl.github.io/GEM.github.io/)]
 * **GaussianWorld**: "GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.04380)] [[Code](https://github.com/zuosc19/GaussianWorld)]
 * **Doe-1**: "Doe-1: Closed-Loop Autonomous Driving with Large World Model", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.09627)] [[Project Page](https://wzzheng.net/Doe/)] [[Code](https://github.com/wzzheng/Doe)]
 * "Pysical Informed Driving World Model", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.08410)] [[Project Page](https://metadrivescape.github.io/papers_project/DrivePhysica/page.html)]
