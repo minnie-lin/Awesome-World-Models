@@ -49,7 +49,9 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* "Towards Physically Interpretable World Models: Meaningful Weakly Supervised Representations for Visual Trajectory Prediction", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.12870)]
 * "Transformers Use Causal World Models in Maze-Solving Tasks", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.11867)]
+* "Causal World Representation in the GPT Model", **`NIPS 2024 Workshop`**. [[Paper](https://arxiv.org/abs/2412.07446)]
 * **Owl-1**: "Owl-1: Omni World Model for Consistent Long Video Generation", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.09600)]
 * "Navigation World Models", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.03572)] [[Website](https://www.amirbar.net/nwm/)]
 * "Evaluating World Models with LLM for Decision Making", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.08794)] 
