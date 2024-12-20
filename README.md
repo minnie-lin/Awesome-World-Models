@@ -111,6 +111,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## World Models for Embodied AI
+* **Dream to Manipulate**: "Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.14957)] [[Website](https://leobarcellona.github.io/DreamToManipulate/)] 
 * **WHALE**: "WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.05619)]
 * **VisualPredicator**: "VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.23156)] 
 * "Multi-Task Interactive Robot Fleet Learning with Visual World Models", **`CoRL 2024`**. [[Paper](https://arxiv.org/abs/2410.22689)] [[Code](https://ut-austin-rpl.github.io/sirius-fleet/)]
@@ -135,6 +136,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* "An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.13772)]
 * **GEM**: "GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.11198)] [[Project Page](https://vita-epfl.github.io/GEM.github.io/)]
 * **GaussianWorld**: "GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.04380)] [[Code](https://github.com/zuosc19/GaussianWorld)]
 * **Doe-1**: "Doe-1: Closed-Loop Autonomous Driving with Large World Model", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.09627)] [[Project Page](https://wzzheng.net/Doe/)] [[Code](https://github.com/wzzheng/Doe)]
