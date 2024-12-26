@@ -136,6 +136,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **DrivingGPT**: "DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.18607)] [[Project Page](https://rogerchern.github.io/DrivingGPT/)]
 * "An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.13772)]
 * **GEM**: "GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.11198)] [[Project Page](https://vita-epfl.github.io/GEM.github.io/)]
 * **GaussianWorld**: "GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.04380)] [[Code](https://github.com/zuosc19/GaussianWorld)]
