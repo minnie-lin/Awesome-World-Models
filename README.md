@@ -44,11 +44,13 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **WorldSimBench**: "WorldSimBench: Towards Video Generation Models as World Simulators", **`arxiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.18072)] [[Website](https://iranqin.github.io/WorldSimBench.github.io/)] 
 * **EVA**: "EVA: An Embodied World Model for Future Video Anticipation", **`arxiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.15461)] [[Website](https://sites.google.com/view/eva-publi)] 
 * **AeroVerse**: "AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models", **`arxiv 2024.08`**. [[Paper](https://arxiv.org/pdf/2408.15511)]
-* **CityBench**: "CityBench: Evaluating the Capabilities of Large Language Model as World Model", **`arXiv 2024.6`**. [[Paper](https://arxiv.org/abs/2406.13945)] [[Code](https://github.com/tsinghua-fib-lab/CityBench)]
+* **CityBench**: "CityBench: Evaluating the Capabilities of Large Language Model as World Model", **`arXiv 2024.06`**. [[Paper](https://arxiv.org/abs/2406.13945)] [[Code](https://github.com/tsinghua-fib-lab/CityBench)]
 * "Imagine the Unseen World: A Benchmark for Systematic Generalization in Visual World Models", **`NIPS 2023`**. [[Paper](https://arxiv.org/abs/2311.09064)]
 
 ---
 ## General World Models
+* "Generative Emergent Communication: Large Language Model is a Collective World Model", **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2501.00226)]
+* "Towards Unraveling and Improving Generalization in World Models", **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2501.00195)]
 * "Towards Physically Interpretable World Models: Meaningful Weakly Supervised Representations for Visual Trajectory Prediction", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.12870)]
 * "Transformers Use Causal World Models in Maze-Solving Tasks", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.11867)]
 * "Causal World Representation in the GPT Model", **`NIPS 2024 Workshop`**. [[Paper](https://arxiv.org/abs/2412.07446)]
