@@ -23,6 +23,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`Cosmos`**, Cosmos World Foundation Model Platform for Physical AI. [[Paper](https://arxiv.org/abs/2501.03575)] [[Website](https://www.nvidia.com/en-us/ai/cosmos/)] [[Code](https://github.com/NVIDIA/Cosmos)]
 * **`1X Technologies`**, 1X World Model. [[Blog](https://www.1x.tech/discover/1x-world-model)]
 * **`Runway`**, Introducing General World Models. [[Blog](https://runwayml.com/research/introducing-general-world-models)]
 * **`Wayve`**, Introducing GAIA-1: A Cutting-Edge Generative AI Model for Autonomy. [[Paper](https://arxiv.org/pdf/2309.17080)] [[Blog](https://wayve.ai/thinking/introducing-gaia1/)] 
