@@ -139,6 +139,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **AD-L-JEPA**: "AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data", **`arXiv 2025.1`**. [[Paper](https://arxiv.org/abs/2501.04969)]  
 * **DrivingWorld**: "DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.19505)] [[Code](https://github.com/YvanYin/DrivingWorld)] [[Project Page](https://huxiaotaostasy.github.io/DrivingWorld/index.html)] 
 * **DrivingGPT**: "DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.18607)] [[Project Page](https://rogerchern.github.io/DrivingGPT/)]
 * "An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.13772)]
