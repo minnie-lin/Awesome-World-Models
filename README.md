@@ -114,6 +114,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## World Models for Embodied AI
+* **RoboHorizon**: "RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation", **`arXiv 2025.1`**. [[Paper](https://arxiv.org/abs/2501.06605)] 
 * **Dream to Manipulate**: "Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.14957)] [[Website](https://leobarcellona.github.io/DreamToManipulate/)] 
 * **WHALE**: "WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.05619)]
 * **VisualPredicator**: "VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.23156)] 
