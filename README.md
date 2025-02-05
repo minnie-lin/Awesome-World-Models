@@ -51,6 +51,10 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* "Improving Transformer World Models for Data-Efficient RL", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.01591)]
+* "Trajectory World Models for Heterogeneous Environments", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.01366)]
+* "Enhancing Memory and Imagination Consistency in Diffusion-based World Models via Linear-Time Sequence Modeling", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.00466)]
+* "Objects matter: object-centric world models improve reinforcement learning in visually complex environments", **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2501.16443)]
 * **GLAM**: "GLAM: Global-Local Variation Awareness in Mamba-based World Model", **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2501.11949)]
 * **GAWM**: "GAWM: Global-Aware World Model for Multi-Agent Reinforcement Learning", **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2501.10116)]
 * "Generative Emergent Communication: Large Language Model is a Collective World Model", **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2501.00226)]
@@ -117,7 +121,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## World Models for Embodied AI
-* **GAWM**: "GAWM: Global-Aware World Model for Multi-Agent Reinforcement Learning", **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2501.10116)]
+* "Strengthening Generative Robot Policies through Predictive World Modeling", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.00622)] [[Website](https://computationalrobotics.seas.harvard.edu/GPC)] 
 * **Robotic World Model**: "Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics", **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2501.10100)]
 * **RoboHorizon**: "RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation", **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2501.06605)] 
 * **Dream to Manipulate**: "Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.14957)] [[Website](https://leobarcellona.github.io/DreamToManipulate/)] 
@@ -145,6 +149,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* "Dream to Drive with Predictive Individual World Model", **`IEEE TIV`**. [[Paper](https://arxiv.org/abs/2501.16733)] [[Code](https://github.com/gaoyinfeng/PIWM)]
+* **HERMES**: "HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation", **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2501.14729)] 
 * **AdaWM**: "AdaWM: Adaptive World Model based Planning for Autonomous Driving", **`ICLR 2025`**. [[Paper](https://arxiv.org/abs/2501.13072)] 
 * **AD-L-JEPA**: "AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data", **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2501.04969)]  
 * **DrivingWorld**: "DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.19505)] [[Code](https://github.com/YvanYin/DrivingWorld)] [[Project Page](https://huxiaotaostasy.github.io/DrivingWorld/index.html)] 
