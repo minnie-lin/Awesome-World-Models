@@ -51,6 +51,12 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* "When do neural networks learn world models?", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.09297)]
+* "Pre-Trained Video Generative Models as World Simulators", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.07825)]
+* **DMWM:**: "DMWM: Dual-Mind World Model with Long-Term Imagination", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.07591)]
+* **EvoAgent:**: "EvoAgent: Agent Autonomous Evolution with Continual World Model for Long-Horizon Tasks", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.05907)]
+* "Acquisition through My Eyes and Steps: A Joint Predictive Agent Model in Egocentric Worlds", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.05857)]
+* "Generating Symbolic World Models via Test-time Scaling of Large Language Models", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.04728)] [[Website](https://vmlpddl.github.io/)]
 * "Improving Transformer World Models for Data-Efficient RL", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.01591)]
 * "Trajectory World Models for Heterogeneous Environments", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.01366)]
 * "Enhancing Memory and Imagination Consistency in Diffusion-based World Models via Linear-Time Sequence Modeling", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.00466)]
@@ -149,6 +155,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* "Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving", **`ICLR 2025`**. [[Paper](https://arxiv.org/abs/2502.07309)]
 * "Dream to Drive with Predictive Individual World Model", **`IEEE TIV`**. [[Paper](https://arxiv.org/abs/2501.16733)] [[Code](https://github.com/gaoyinfeng/PIWM)]
 * **HERMES**: "HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation", **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2501.14729)] 
 * **AdaWM**: "AdaWM: Adaptive World Model based Planning for Autonomous Driving", **`ICLR 2025`**. [[Paper](https://arxiv.org/abs/2501.13072)] 
