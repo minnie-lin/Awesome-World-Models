@@ -4,7 +4,7 @@ This repository provides a curated list of **papers for World Models for General
 
 #### Contributions are welcome! Please feel free to submit [pull requests](https://github.com/leofan90/Awesome-World-Models/blob/main/how-to-PR.md) or reach out via [email](mailto:chunkaifan-changetoat-stu-changetodot-pku--changetodot-changetoedu-changetocn) to add papers! <br>
 
-If you find this repository useful, please consider [citing](#citation) and giving this repo a star ⭐. Feel free to share it with others!
+If you find this repository useful, please consider [citing](#citation) and giving this list a star ⭐. Feel free to share it with others!
 
 ---
 ## Overview
@@ -155,6 +155,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **Dream to Drive**: "Dream to Drive: Model-Based Vehicle Control Using Analytic World Models", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.10012)]
 * "Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving", **`ICLR 2025`**. [[Paper](https://arxiv.org/abs/2502.07309)]
 * "Dream to Drive with Predictive Individual World Model", **`IEEE TIV`**. [[Paper](https://arxiv.org/abs/2501.16733)] [[Code](https://github.com/gaoyinfeng/PIWM)]
 * **HERMES**: "HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation", **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2501.14729)] 
