@@ -30,6 +30,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.10498)] [[Code](https://github.com/LMD0311/Awesome-World-Model)]
 * "A Survey of World Models for Autonomous Driving", **`TPAMI`**. [[Paper](https://arxiv.org/abs/2501.11260)]
 * "Understanding World or Predicting Future? A Comprehensive Survey of World Models", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.14499)]
 * "World Models: The Safety Perspective", **`ISSRE WDMD`**. [[Paper](https://arxiv.org/abs/2411.07690)]
@@ -42,6 +43,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks
+* **Text2World**: "Text2World: Benchmarking Large Language Models for Symbolic World Model Generation", **`arxiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.13092)] [[Website](https://text-to-world.github.io/)] 
 * **ACT-Bench**: "ACT-Bench: Towards Action Controllable World Models for Autonomous Driving", **`arxiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.05337)]
 * **WorldSimBench**: "WorldSimBench: Towards Video Generation Models as World Simulators", **`arxiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.18072)] [[Website](https://iranqin.github.io/WorldSimBench.github.io/)] 
 * **EVA**: "EVA: An Embodied World Model for Future Video Anticipation", **`arxiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.15461)] [[Website](https://sites.google.com/view/eva-publi)] 
@@ -51,6 +53,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* "Learning To Explore With Predictive World Model Via Self-Supervised Learning", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.13200)]
+* **M^3:**: "M^3: A Modular World Model over Streams of Tokens", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.11537)]
 * "When do neural networks learn world models?", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.09297)]
 * "Pre-Trained Video Generative Models as World Simulators", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.07825)]
 * **DMWM:**: "DMWM: Dual-Mind World Model with Long-Term Imagination", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.07591)]
@@ -155,6 +159,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **MaskGWM**: "MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.11663)]
 * **Dream to Drive**: "Dream to Drive: Model-Based Vehicle Control Using Analytic World Models", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.10012)]
 * "Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving", **`ICLR 2025`**. [[Paper](https://arxiv.org/abs/2502.07309)]
 * "Dream to Drive with Predictive Individual World Model", **`IEEE TIV`**. [[Paper](https://arxiv.org/abs/2501.16733)] [[Code](https://github.com/gaoyinfeng/PIWM)]
