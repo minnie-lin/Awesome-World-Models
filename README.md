@@ -131,6 +131,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## World Models for Embodied AI
+* "Learning Humanoid Locomotion with World Model Reconstruction", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.16230)] 
 * "Strengthening Generative Robot Policies through Predictive World Modeling", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.00622)] [[Website](https://computationalrobotics.seas.harvard.edu/GPC)] 
 * **Robotic World Model**: "Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics", **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2501.10100)]
 * **RoboHorizon**: "RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation", **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2501.06605)] 
