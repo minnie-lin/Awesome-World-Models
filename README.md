@@ -30,6 +30,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "Simulating the Real World: A Unified Survey of Multimodal Generative Models", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.04641)] [[Code](https://github.com/ALEEEHU/World-Simulator)]
+* "Four Principles for Physically Interpretable World Models", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.02143)]
 * "The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.10498)] [[Code](https://github.com/LMD0311/Awesome-World-Model)]
 * "A Survey of World Models for Autonomous Driving", **`TPAMI`**. [[Paper](https://arxiv.org/abs/2501.11260)]
 * "Understanding World or Predicting Future? A Comprehensive Survey of World Models", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.14499)]
@@ -43,7 +45,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks
-* **Text2World**: "Text2World: Benchmarking Large Language Models for Symbolic World Model Generation", **`arxiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.13092)] [[Website](https://text-to-world.github.io/)] 
+* **WorldModelBench**: "WorldModelBench: Judging Video Generation Models As World Models", **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2502.13092)] [[Website](https://worldmodelbench-team.github.io/)]
+* **Text2World**: "Text2World: Benchmarking Large Language Models for Symbolic World Model Generation", **`arxiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.20694)] [[Website](https://text-to-world.github.io/)] 
 * **ACT-Bench**: "ACT-Bench: Towards Action Controllable World Models for Autonomous Driving", **`arxiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.05337)]
 * **WorldSimBench**: "WorldSimBench: Towards Video Generation Models as World Simulators", **`arxiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.18072)] [[Website](https://iranqin.github.io/WorldSimBench.github.io/)] 
 * **EVA**: "EVA: An Embodied World Model for Future Video Anticipation", **`arxiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.15461)] [[Website](https://sites.google.com/view/eva-publi)] 
@@ -53,6 +56,17 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* "Revisiting the Othello World Model Hypothesis", **`ICLR World Models Workshop`**. [[Paper](https://arxiv.org/abs/2503.04421)] 
+* "Learning Transformer-based World Models with Contrastive Predictive Coding", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.04416)] 
+* "Surgical Vision World Model", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.02904)] 
+* "World Models for Anomaly Detection during Model-Based Reinforcement Learning Inference", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.02552)] 
+* **WMNav**: "WMNav: Integrating Vision-Language Models into World Models for Object Goal Navigation", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.02247)] [[Website](https://b0b8k1ng.github.io/WMNav/)]
+* **SENSEI**: "SENSEI: Semantic Exploration Guided by Foundation Models to Learn Versatile World Models", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.01584)] [[Website](https://sites.google.com/view/sensei-paper)]
+* "Learning Actionable World Models for Industrial Process Control", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.00713)]
+* "Implementing Spiking World Model with Multi-Compartment Neurons for Model-based Reinforcement Learning", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.00713)]
+* "Discrete Codebook World Models for Continuous Control", **`ICLR 2025`**. [[Paper](https://arxiv.org/abs/2503.00653)]
+* **Multimodal Dreaming**: "Multimodal Dreaming: A Global Workspace Approach to World Model-Based Reinforcement Learning", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.21142)]
+* "Generalist World Model Pre-Training for Efficient Reinforcement Learning", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.19544)]
 * "Learning To Explore With Predictive World Model Via Self-Supervised Learning", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.13200)]
 * **M^3:**: "M^3: A Modular World Model over Streams of Tokens", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.11537)]
 * "When do neural networks learn world models?", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.09297)]
@@ -131,6 +145,9 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## World Models for Embodied AI
+* "Object-Centric World Model for Language-Guided Manipulation", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.06170)] 
+* **DEMO^3**: "Multi-Stage Manipulation with Demonstration-Augmented Reward, Policy, and World Model Learning", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.01837)] [[Website](https://adrialopezescoriza.github.io/demo3/)] 
+* "Accelerating Model-Based Reinforcement Learning with State-Space World Models", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.20168)] 
 * "Learning Humanoid Locomotion with World Model Reconstruction", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.16230)] 
 * "Strengthening Generative Robot Policies through Predictive World Modeling", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.00622)] [[Website](https://computationalrobotics.seas.harvard.edu/GPC)] 
 * **Robotic World Model**: "Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics", **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2501.10100)]
@@ -160,6 +177,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* "Temporal Triplane Transformers as Occupancy World Models", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.07338)]
+* **InDRiVE**: "InDRiVE: Intrinsic Disagreement based Reinforcement for Vehicle Exploration through Curiosity Driven Generalized World Model", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2503.05573)]
 * **MaskGWM**: "MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.11663)]
 * **Dream to Drive**: "Dream to Drive: Model-Based Vehicle Control Using Analytic World Models", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.10012)]
 * "Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving", **`ICLR 2025`**. [[Paper](https://arxiv.org/abs/2502.07309)]
