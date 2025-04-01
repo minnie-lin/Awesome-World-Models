@@ -45,6 +45,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks
+* "Toward Stable World Models: Measuring and Addressing World Instability in Generative Environments", **`arxiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.08122)] 
 * **WorldModelBench**: "WorldModelBench: Judging Video Generation Models As World Models", **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2502.13092)] [[Website](https://worldmodelbench-team.github.io/)]
 * **Text2World**: "Text2World: Benchmarking Large Language Models for Symbolic World Model Generation", **`arxiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.20694)] [[Website](https://text-to-world.github.io/)] 
 * **ACT-Bench**: "ACT-Bench: Towards Action Controllable World Models for Autonomous Driving", **`arxiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.05337)]
@@ -56,6 +57,9 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* **FUSDREAMER**: "FUSDREAMER: Label-efficient Remote Sensing World Model for Multimodal Data Classification", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.13814)] [[Website](https://github.com/Cimy-wang/FusDreamer)]
+* "Inter-environmental world modeling for continuous and compositional dynamics", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.09911)] 
+* **Disentangled World Models**: "Disentangled World Models: Learning to Transfer Semantic Knowledge from Distracting Videos for Reinforcement Learning", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.08751)] 
 * "Revisiting the Othello World Model Hypothesis", **`ICLR World Models Workshop`**. [[Paper](https://arxiv.org/abs/2503.04421)] 
 * "Learning Transformer-based World Models with Contrastive Predictive Coding", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.04416)] 
 * "Surgical Vision World Model", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.02904)] 
@@ -145,6 +149,9 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## World Models for Embodied AI
+* "Towards Suturing World Models: Learning Predictive Models for Robotic Surgical Tasks", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.12531)] [[Website](https://mkturkcan.github.io/suturingmodels/)] 
+* "World Modeling Makes a Better Planner: Dual Preference Optimization for Embodied Task Planning", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.10480)] 
+* **LUMOS**: "LUMOS: Language-Conditioned Imitation Learning with World Models", **`ICRA 2025`**. [[Paper](https://arxiv.org/abs/2503.10370)] [[Website](http://lumos.cs.uni-freiburg.de/)] 
 * "Object-Centric World Model for Language-Guided Manipulation", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.06170)] 
 * **DEMO^3**: "Multi-Stage Manipulation with Demonstration-Augmented Reward, Policy, and World Model Learning", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.01837)] [[Website](https://adrialopezescoriza.github.io/demo3/)] 
 * "Accelerating Model-Based Reinforcement Learning with State-Space World Models", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.20168)] 
@@ -177,6 +184,9 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **SimWorld**: "SimWorld: A Unified Benchmark for Simulator-Conditioned Scene Generation via World Model", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.13952)] [[Project Page](https://github.com/Li-Zn-H/SimWorld)] 
+* **UniFuture**: "Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.13587)] [[Project Page](https://github.com/dk-liang/UniFuture)] 
+* **EOT-WM**: "Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latent Space", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.09215)]
 * "Temporal Triplane Transformers as Occupancy World Models", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.07338)]
 * **InDRiVE**: "InDRiVE: Intrinsic Disagreement based Reinforcement for Vehicle Exploration through Curiosity Driven Generalized World Model", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2503.05573)]
 * **MaskGWM**: "MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.11663)]
