@@ -23,6 +23,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`GAIA-2`**, GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving. [[Paper](https://arxiv.org/abs/2503.20523)] [[Website](https://wayve.ai/thinking/gaia-2)]
 * **`Cosmos`**, Cosmos World Foundation Model Platform for Physical AI. [[Paper](https://arxiv.org/abs/2501.03575)] [[Website](https://www.nvidia.com/en-us/ai/cosmos/)] [[Code](https://github.com/NVIDIA/Cosmos)]
 * **`1X Technologies`**, 1X World Model. [[Blog](https://www.1x.tech/discover/1x-world-model)]
 * **`Runway`**, Introducing General World Models. [[Blog](https://runwayml.com/research/introducing-general-world-models)]
@@ -30,6 +31,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.15168)] 
 * "Simulating the Real World: A Unified Survey of Multimodal Generative Models", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.04641)] [[Code](https://github.com/ALEEEHU/World-Simulator)]
 * "Four Principles for Physically Interpretable World Models", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.02143)]
 * "The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey", **`arXiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.10498)] [[Code](https://github.com/LMD0311/Awesome-World-Model)]
@@ -57,6 +59,9 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* "Can Test-Time Scaling Improve World Foundation Model?", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.24320)] [[Code](https://github.com/Mia-Cong/SWIFT.git)]
+* "Synthesizing world models for bilevel planning", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.20124)] 
+* **Aether**: "Aether: Geometric-Aware Unified World Modeling", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.18945)] [[Website](https://aether-world.github.io/)]
 * **FUSDREAMER**: "FUSDREAMER: Label-efficient Remote Sensing World Model for Multimodal Data Classification", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.13814)] [[Website](https://github.com/Cimy-wang/FusDreamer)]
 * "Inter-environmental world modeling for continuous and compositional dynamics", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.09911)] 
 * **Disentangled World Models**: "Disentangled World Models: Learning to Transfer Semantic Knowledge from Distracting Videos for Reinforcement Learning", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.08751)] 
@@ -149,6 +154,9 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## World Models for Embodied AI
+* "Perspective-Shifted Neuro-Symbolic World Models: A Framework for Socially-Aware Robot Navigation", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.20425)] 
+* **AdaWorld**: "AdaWorld: Learning Adaptable World Models with Latent Actions", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.18938)] [[Website](https://adaptable-world-model.github.io/)] 
+* **DyWA**: "DyWA: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.16806)] [[Website](https://pku-epic.github.io/DyWA/)] 
 * "Towards Suturing World Models: Learning Predictive Models for Robotic Surgical Tasks", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.12531)] [[Website](https://mkturkcan.github.io/suturingmodels/)] 
 * "World Modeling Makes a Better Planner: Dual Preference Optimization for Embodied Task Planning", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.10480)] 
 * **LUMOS**: "LUMOS: Language-Conditioned Imitation Learning with World Models", **`ICRA 2025`**. [[Paper](https://arxiv.org/abs/2503.10370)] [[Website](http://lumos.cs.uni-freiburg.de/)] 
@@ -184,6 +192,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* "Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.21232)]
+* **MiLA**: "MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.15875)] [[Project Page](https://github.com/xiaomi-mlab/mila.github.io)] 
 * **SimWorld**: "SimWorld: A Unified Benchmark for Simulator-Conditioned Scene Generation via World Model", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.13952)] [[Project Page](https://github.com/Li-Zn-H/SimWorld)] 
 * **UniFuture**: "Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.13587)] [[Project Page](https://github.com/dk-liang/UniFuture)] 
 * **EOT-WM**: "Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latent Space", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.09215)]
